@@ -1,11 +1,11 @@
 Basic HTML
 ==========
 
-This lesson is an introduction to HTML markup. After completing this lesson you should be able to create a simple web page from scratch. You can view the presentation [here](https://docs.google.com/presentation/d/1hhxC1GFokFmYk6an6v99hOm3IGdXrtrYOW5SuzWgFUE) and view the sample file used in the presentation [here](http://madisonpdx.github.io/BasicHTML/).
+This lesson is an introduction to HTML markup. After completing this lesson you should be able to create a simple web page from scratch. You can view the presentation <a href="https://docs.google.com/presentation/d/1hhxC1GFokFmYk6an6v99hOm3IGdXrtrYOW5SuzWgFUE" target="_blank">here</a> and view the sample file used in the presentation <a href="http://madisonpdx.github.io/BasicHTML" target="_blank">here</a>.
 
 References
 ----------
 
-[HTML Basic Examples at W3Schools](http://www.w3schools.com/html/html_basic.asp)
+<a href="http://www.w3schools.com/html/html_basic.asp" target="_blank">HTML Basic Examples at W3Schools</a>
 
-[Stack Overflow DIV vs. P](http://stackoverflow.com/questions/2226562/what-is-the-difference-between-p-and-div)
+<a href="http://stackoverflow.com/questions/2226562/what-is-the-difference-between-p-and-div" target="_blank">Stack Overflow DIV vs. P</a>
